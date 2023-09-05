@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Grynbox and I'm a student of Data Science.
-- 👀 I’m interested in use my knowledge to create somehing, know how to use it. 
+- 👋 Hi, I’m @Grynbox and I'm a student of Data Engenering.
+- 👀 I’m interested in use my knowledge to create something, know how to use it. 
 - 🌱 I’m currently learning differents lenguages for different topics.I don't know hot to implemented in projecs yet.I know a Little of Java and C also a bit of R.   
 - 📫 How to reach me.
 <!---
